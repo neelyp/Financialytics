@@ -1,2 +1,2 @@
 # Financialytics
-A powerful Finance app 
+coming soon
